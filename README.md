@@ -22,7 +22,7 @@ Gather four things before you enter anything: a make.fun account, a GitHub accou
 
 ## 1. Create your account and link GitHub
 
-Go to https://make.fun and create an account. You can sign in with GitHub directly, or sign in with a Solana wallet, Google, Apple, or Discord and link GitHub on your profile afterwards. Either path works, but GitHub must be linked before you enter anything that takes a GitHub repository: the repository's owner has to be the GitHub account linked to the make.fun account that enters.
+Create an account at https://make.fun. You can sign in with GitHub directly, or sign in with a Solana wallet, Google, Apple, or Discord and link GitHub on your profile afterwards. Either path works, but GitHub must be linked before you enter anything that takes a GitHub repository: the repository's owner has to be the GitHub account linked to the make.fun account that enters.
 
 Your profile holds your handle, your wallets, and your referral code. A bio is optional and public.
 
@@ -168,7 +168,7 @@ My code is `v95jp97a`, and my link is https://make.fun/r/v95jp97a. If you sign u
 
 ## First entry checklist
 
-The whole flow on one screen, for the second entry onwards:
+For the second entry onwards:
 
 1. Create the account and link GitHub.
 2. Make the keypair, set mode 600, and connect it with `login`.
